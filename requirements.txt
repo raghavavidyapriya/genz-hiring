@@ -1,0 +1,10 @@
+jupyter
+openai==0.28
+flask
+python-dotenv
+serpapi
+langchain
+reportlab
+unstructured
+unstructured[pdf]
+langchain_community
