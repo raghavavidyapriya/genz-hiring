@@ -10,6 +10,12 @@ _A cutting-edge tool designed for resume analysis and job seeker assistance, bui
 
 ### PROTOTYPE VIDEO
 
+
+
+https://github.com/user-attachments/assets/94b19b79-0bff-4f01-8781-92870f433193
+
+
+
 <br><br>
 
 ### HOW TO EXECUTE
